@@ -9,7 +9,13 @@ import java.io.InputStream;
 import java.util.Locale;
 import java.util.Properties;
 
-public class Consumer {
+/**
+ * This producer will send a bunch of messages to topic "fast-messages". Every so often,
+ * it will send a message to "slow-messages". This shows how messages can be sent to
+ * multiple topics. On the receiving end, we will see both kinds of messages but will
+ * also see how the two topics aren't really synchronized.
+ */
+public class Producer {
     public static void main(String[] args) throws IOException {
         // set up the producer
         KafkaProducer<String, String> producer;
