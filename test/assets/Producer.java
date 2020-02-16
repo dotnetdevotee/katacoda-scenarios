@@ -23,7 +23,11 @@ public class Producer {
             Properties properties = new Properties();
             properties.load(props);
             producer = new KafkaProducer<>(properties);
+        } catch {
+            System.out.println("Error getting the connection");
         }
+
+        System.out.println("Connection made");
 
         try {
             for (int i = 0; i < 1000000; i++) {
