@@ -11,7 +11,7 @@
       }
     ],
     "intro": {
-      "courseData": "/root/courseBase.sh",
+      "code": "/root/courseBase.sh",
       "text": "intro.md"
     },
     "finish": {
