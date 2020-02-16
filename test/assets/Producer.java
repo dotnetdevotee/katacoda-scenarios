@@ -1,3 +1,5 @@
+package com.mapr.examples;
+
 import com.google.common.io.Resources;
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerRecord;
@@ -7,7 +9,7 @@ import java.io.InputStream;
 import java.util.Locale;
 import java.util.Properties;
 
-public class Thrower {
+public class Consumer {
     public static void main(String[] args) throws IOException {
         // set up the producer
         KafkaProducer<String, String> producer;

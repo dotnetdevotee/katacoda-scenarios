@@ -1,3 +1,5 @@
+package com.mapr.examples;
+
 import java.io.IOException;
 
 /**
