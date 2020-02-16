@@ -1,5 +1,6 @@
 First, let's move our Java code into the right structure...
 `mv *.java src/main/java/com/mapr/examples`{{execute}}
+`mv producer.props src/resources`{{execute}}
 
 Then, we wait for minikube to start...
 `watch kubectl get nodes`{{execute}}

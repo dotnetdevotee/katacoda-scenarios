@@ -11,5 +11,4 @@ cd com
 mkdir mapr
 cd mapr
 mkdir examples
-cp /root/*.java .
 cd /root
