@@ -11,6 +11,7 @@
       }
     ],
     "intro": {
+      "courseData": "courseBase.sh",
       "text": "intro.md"
     },
     "finish": {
