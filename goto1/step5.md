@@ -1,3 +1,0 @@
-Now let's try the client...
-
-``{{execute}}
