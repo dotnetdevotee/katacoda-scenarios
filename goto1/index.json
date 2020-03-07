@@ -8,6 +8,10 @@
         {
           "title": "Creating the app",
           "text": "step1.md"
+        },
+        {
+          "title": "Try the editor",
+          "text": "step2.md"
         }
       ],
       "intro": {
