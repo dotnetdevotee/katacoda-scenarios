@@ -1,0 +1,28 @@
+{
+    "title": "GOTO Demo 1",
+    "description": "Building the monolith",
+    "difficulty": "Beginner",
+    "time": "20 minutes",
+    "details": {
+      "steps": [
+        {
+          "title": "Creating the app",
+          "text": "step1.md"
+        }
+      ],
+      "intro": {
+        "text": "intro.md"
+      },
+      "finish": {
+        "text": "finish.md"
+      },
+      "assets": {
+      }
+    },
+    "environment": {
+      "uilayout": "editor-terminal"
+    },
+    "backend": {
+      "imageid": "java11"
+    }
+  }
