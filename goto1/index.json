@@ -20,6 +20,10 @@
         {
           "title": "Time to run the server",
           "text": "step4.md"
+        },
+        {
+          "title": "Let'd try the client",
+          "text": "step5.md"
         }
       ],
       "intro": {
