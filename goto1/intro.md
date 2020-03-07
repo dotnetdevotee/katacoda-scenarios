@@ -1,1 +1,1 @@
-I wonder what goed in the intro?
+In this scenario, you will create our initial, "monolith" application.  In future scenarios, we will update this application to take advantage of modern software development techniques.
