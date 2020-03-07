@@ -1,9 +1,3 @@
-<pre class="file" data-filename="app.js" data-target="replace">var http = require('http');
-var requestListener = function (req, res) {
-  res.writeHead(200);
-  res.end('Hello, World!');
-}
+We want to get the code, first - so let's start by getting git...
 
-var server = http.createServer(requestListener);
-server.listen(3000, function() { console.log("Listening on port 3000")});
-</pre>
+`apt-get update && apt-get install git -y`{{execute}}
