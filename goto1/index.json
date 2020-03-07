@@ -6,6 +6,10 @@
     "details": {
       "steps": [
         {
+          "title": "Getting Node",
+          "text": "preStep.md"
+        },
+        {
           "title": "Getting Java 11",
           "text": "step1.md"
         },
