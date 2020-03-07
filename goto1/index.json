@@ -6,12 +6,16 @@
     "details": {
       "steps": [
         {
-          "title": "Creating the app",
+          "title": "Getting Java 11",
           "text": "step1.md"
         },
         {
-          "title": "Try the editor",
+          "title": "Getting GIT",
           "text": "step2.md"
+        },
+        {
+          "title": "Getting the code",
+          "text": "step3.md"
         }
       ],
       "intro": {
