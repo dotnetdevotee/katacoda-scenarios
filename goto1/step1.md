@@ -1,2 +1,2 @@
 Katacoda only runs Java 8, and we need Java 11 - so let's get that running, for starters...
-`docker run -it maven:3.6.3-jdk-11-openj9 /bin/bash`{{execute}}
+`docker run -it maven:3.6.3-jdk-11-openj9 /bin/bash`{{execute HOST1}}
