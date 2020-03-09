@@ -18,3 +18,9 @@ Render port 80: https://[[HOST_SUBDOMAIN]]-80-[[KATACODA_HOST]].environments.kat
 
 Display page allowing user to select port:
 https://[[HOST_SUBDOMAIN]]-[[KATACODA_HOST]].environments.katacoda.com/
+
+
+netcat -k -l -p 8082 -c "nc localhost 8080" &
+socat tcp-listen:8081,reuseaddr,fork tcp:localhost:8080 &
+
+socat -d tcp-listen:8084,reuseaddr,fork tcp:localhost:8080

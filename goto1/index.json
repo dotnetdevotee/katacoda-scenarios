@@ -4,15 +4,7 @@
     "difficulty": "Beginner",
     "time": "20 minutes",
     "details": {
-      "steps": [
-        {
-          "title": "Getting Node",
-          "text": "preStep.md"
-        },
-        {
-          "title": "Running the client",
-          "text": "clientRun.md"
-        },
+      "steps": [        
         {
           "title": "Getting Java 11",
           "text": "step1.md"
@@ -28,6 +20,18 @@
         {
           "title": "Time to run the server",
           "text": "step4.md"
+        },
+        {
+          "title": "Start the client",
+          "text": "step5.md"
+        },
+        {
+          "title": "Getting the code",
+          "text": "step6.md"
+        },
+        {
+          "title": "Running the client",
+          "text": "clientRun.md"
         }
       ],
       "intro": {
