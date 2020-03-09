@@ -1,8 +1,17 @@
-Forward this to the other terminal...
-
-`socat -d tcp-listen:9000,reuseaddr,fork tcp:[[HOST_SUBDOMAIN]]-9000-[[KATACODA_HOST]].environments.katacoda.com:80`{{execute}}
-
 Now let's get the code...
 
 `git clone https://github.com/mattjonesorg/DMRTechnology.git`{{execute}}
 
+Now we'll run the server...
+
+`cd DMRTechnology`{{execute}}
+
+`cd client`{{execute}}
+
+`cd src`{{execute}}
+
+`vi CalendarApi.js`{{execute}}
+
+`cd ..`{{execute}}
+
+`mvn org.springframework.boot:spring-boot-maven-plugin:run &`{{execute}}
