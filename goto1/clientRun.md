@@ -1,6 +1,6 @@
 Let's start by running the client on the server...
 
-`git clone https://github.com/mattjonesorg/DMRTechnology.git`{{execute}}
+`git clone https://github.com/dotnetdevotee/DMRTechnology.git`{{execute}}
 
 
 `cd DMRTechnology`{{execute}}
