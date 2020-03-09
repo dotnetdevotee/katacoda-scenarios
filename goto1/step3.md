@@ -1,3 +1,3 @@
 Now let's get the code...
 
-`git clone https://github.com/mattjonesorg/DMRTechnology.git`{{execute}}
+`git clone https://github.com/dotnetdevotee/DMRTechnology.git`{{execute}}
