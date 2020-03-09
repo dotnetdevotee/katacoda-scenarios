@@ -1,8 +1,8 @@
-Now let's get the code...
-
-`git clone https://github.com/mattjonesorg/DMRTechnology.git`{{execute}}
-
 Now we need to edit the server URL ...
+
+`apt update`{{execute}}
+
+`apt install nano`{{execute}}
 
 `cd DMRTechnology`{{execute}}
 
@@ -10,4 +10,4 @@ Now we need to edit the server URL ...
 
 `cd src`{{execute}}
 
-`vi CalendarApi.js`{{execute}}
+`nano CalendarApi.js`{{execute}}
