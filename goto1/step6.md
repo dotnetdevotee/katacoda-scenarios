@@ -2,7 +2,7 @@ Now let's get the code...
 
 `git clone https://github.com/mattjonesorg/DMRTechnology.git`{{execute}}
 
-Now we'll run the server...
+Now we need to edit the server URL ...
 
 `cd DMRTechnology`{{execute}}
 
@@ -11,7 +11,3 @@ Now we'll run the server...
 `cd src`{{execute}}
 
 `vi CalendarApi.js`{{execute}}
-
-`cd ..`{{execute}}
-
-`mvn org.springframework.boot:spring-boot-maven-plugin:run &`{{execute}}
