@@ -28,6 +28,10 @@
         {
             "title": "Building and running",
             "text": "step6.md"
+        },
+        {
+            "title": "Starting the client",
+            "text": "step7.md"
         }
     ],
     "intro": {
