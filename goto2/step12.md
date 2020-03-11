@@ -5,7 +5,7 @@ Last, but not least, we want to tell Docker to start our client via Yarn wheneve
 
 FROM node:latest
 COPY . .
-npm install
+RUN npm install
 ENTRYPOINT yarn serve
 
 </pre>

@@ -5,6 +5,6 @@ Now that our code will be in place on the Docker image, we need to run npm insta
 
 FROM node:latest
 COPY . .
-npm install
+RUN npm install
 
 </pre>
