@@ -24,6 +24,10 @@
         {
             "title": "Setting a working directory",
             "text": "step4.md"
+        },
+        {
+            "title": "Adding an entrypoint",
+            "text": "step5.md"
         }
     ],
     "intro": {
