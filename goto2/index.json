@@ -48,6 +48,14 @@
         {
             "title": "Installing the NPM libraries",
             "text": "step11.md"
+        },
+        {
+            "title": "Adding an entrypoint",
+            "text": "step12.md"
+        },
+        {
+            "title": "Putting it all together",
+            "text": "step13.md"
         }
     ],
     "intro": {
