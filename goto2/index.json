@@ -32,6 +32,14 @@
         {
             "title": "Starting the client",
             "text": "step7.md"
+        },
+        {
+            "title": "Change the server URL",
+            "text": "step8.md"
+        },
+        {
+            "title": "Adding a base image",
+            "text": "step9.md"
         }
     ],
     "intro": {
