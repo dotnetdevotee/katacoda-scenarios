@@ -8,3 +8,5 @@ Please open the Dockerfile we just created in the editor.  Then continue...
 # We'll put our code here
 
 </pre>
+
+If you did this correctly, you should now see "# We'll put our code here" in the text editor.
