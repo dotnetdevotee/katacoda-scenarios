@@ -6,6 +6,6 @@ In a Dockerfile, we can simply tell Docker to copy all the files from our local 
 # We'll put our code here
 
 FROM maven:3.6.3-jdk-11-openj9
-COPY server/ .
+COPY . .
 
 </pre>

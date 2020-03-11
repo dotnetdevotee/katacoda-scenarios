@@ -4,8 +4,7 @@ Last, but not least, we want to tell Docker to start our server via Maven whenev
 # We'll put our code here
 
 FROM maven:3.6.3-jdk-11-openj9
-COPY server/ server/
-WORKDIR server
+COPY . .
 ENTRYPOINT mvn org.springframework.boot:spring-boot-maven-plugin:run
 
 </pre>

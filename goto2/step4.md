@@ -4,7 +4,7 @@ We are going to run our server's maven target when we start our Docker image.  B
 # We'll put our code here
 
 FROM maven:3.6.3-jdk-11-openj9
-COPY server/ server/
+COPY . .
 WORKDIR server
 
 </pre>
