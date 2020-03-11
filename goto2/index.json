@@ -28,6 +28,10 @@
         {
             "title": "Adding an entrypoint",
             "text": "step5.md"
+        },
+        {
+            "title": "Building and running",
+            "text": "step6.md"
         }
     ],
     "intro": {
