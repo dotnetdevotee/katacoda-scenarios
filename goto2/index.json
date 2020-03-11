@@ -40,6 +40,14 @@
         {
             "title": "Adding a base image",
             "text": "step9.md"
+        },
+        {
+            "title": "Copying our code to the image",
+            "text": "step10.md"
+        },
+        {
+            "title": "Installing the NPM libraries",
+            "text": "step11.md"
         }
     ],
     "intro": {
