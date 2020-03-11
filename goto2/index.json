@@ -16,6 +16,10 @@
         {
             "title": "Adding a base image",
             "text": "step2.md"
+        },
+        {
+            "title": "Copying our code to the image",
+            "text": "step3.md"
         }
     ],
     "intro": {
