@@ -4,7 +4,11 @@
     "difficulty": "Beginner",
     "time": "20 minutes",
     "details": {
-      "steps": [        
+      "steps": [  
+        {
+          "title": "Examining the code",
+          "text": "step0.md"
+        },      
         {
           "title": "Getting Java 11",
           "text": "step1.md"
