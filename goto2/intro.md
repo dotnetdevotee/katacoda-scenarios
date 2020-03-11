@@ -1,0 +1,1 @@
+In this scenario, you will bundle our initial, "monolith" application into Docker images.  In future scenarios, we will update this application to take advantage of modern software development techniques.

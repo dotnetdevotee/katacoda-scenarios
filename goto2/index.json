@@ -1,0 +1,32 @@
+{
+    "title": "GOTO Demo 2",
+    "description": "Containerizing the monolith",
+    "difficulty": "Beginner",
+    "time": "20 minutes",
+    "details": {
+      "steps": [  
+        {
+          "title": "Downloading the code",
+          "text": "step0.md"
+        },
+        {
+            "title": "Starting the Dockerfile",
+            "text": "step1.md"
+        }
+    ],
+    "intro": {
+        "text": "intro.md"
+    },
+    "finish": {
+        "text": "finish.md"
+    },
+    "assets": {
+    }
+    },
+    "environment": {
+    "uilayout": "editor-terminal"
+    },
+    "backend": {
+    "imageid": "docker"
+    }
+  }
