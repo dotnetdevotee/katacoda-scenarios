@@ -14,6 +14,6 @@ Now we need to edit the server URL ...
 
 `nano server.js`{{execute}}
 
-Now replace 'http://localhost:9000' with 'https://[[HOST_SUBDOMAIN]]-9000-[[KATACODA_HOST]].environments.katacoda.com/'
+Now replace 'http://localhost:9000' with 'https://[[HOST_SUBDOMAIN]]-9000-[[KATACODA_HOST]].environments.katacoda.com'
 
 Then hit CTRL-X and follow the prompts to save the file
