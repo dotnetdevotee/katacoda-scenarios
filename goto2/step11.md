@@ -3,7 +3,7 @@ Now that our code will be in place on the Docker image, we need to run npm insta
 <pre class="file" data-filename="Dockerfile" data-target="replace">
 # We'll put our code here
 
-FROM node:erbium
+FROM node:erbium-slim
 COPY . .
 RUN npm install
 
