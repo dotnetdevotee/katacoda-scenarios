@@ -9,4 +9,4 @@ FROM node:erbium
 
 </pre>
 
-If you did this correctly, you should now see code in your client Dockerfile to start a Dockerfile based on "node:latest"
+If you did this correctly, you should now see code in your client Dockerfile to start a Dockerfile based on "node:erbium"
