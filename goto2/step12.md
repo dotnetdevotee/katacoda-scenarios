@@ -3,7 +3,7 @@ Last, but not least, we want to tell Docker to start our client via Yarn wheneve
 <pre class="file" data-filename="Dockerfile" data-target="replace">
 # We'll put our code here
 
-FROM node:latest
+FROM node:erbium
 COPY . .
 RUN npm install
 ENTRYPOINT yarn serve

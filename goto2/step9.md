@@ -5,7 +5,7 @@ Let's start off by adding the base image for our Docker...
 <pre class="file" data-filename="Dockerfile" data-target="replace">
 # We'll put our code here
 
-FROM node:latest
+FROM node:erbium
 
 </pre>
 

@@ -5,7 +5,7 @@ In a Dockerfile, we can simply tell Docker to copy all the files from our local 
 <pre class="file" data-filename="Dockerfile" data-target="replace">
 # We'll put our code here
 
-FROM node:latest
+FROM node:erbium
 COPY . .
 
 </pre>
